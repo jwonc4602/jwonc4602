@@ -3326,4 +3326,47 @@ input, select, textarea {
 	 padding: 2rem 50px;
 	 }
 	}
-  
+
+	/* Tools */
+	.tools {
+		overflow: hidden; /* Clear the float */
+	  }
+	  
+	.tools-title {
+		float: left;
+		width: 50%;
+	}
+	/* Tools - Icons */
+
+	ul.icons2 {
+		cursor: default;
+		list-style: none;
+		padding-left: 0;
+	}
+
+		ul.icons2 li {
+			display: inline-block;
+		}
+
+			ul.icons2 li:last-child {
+				padding-right: 0;
+			}
+
+			ul.icons2 li a {
+				border-radius: 100%;
+				box-shadow: inset 0 0 0 1px #fff;
+				display: inline-block;
+				height: 2.25rem;
+				line-height: 2.25rem;
+				text-align: center;
+				width: 2.25rem;
+			}
+
+				ul.icons2 li a:hover {
+					background-color: #38548c;
+				}
+
+				ul.icons2 li a:active {
+					background-color: rgba(255, 255, 255, 0.175);
+				}
+
