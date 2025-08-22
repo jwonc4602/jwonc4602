@@ -12,7 +12,7 @@ I am passionate about **data science**, **statistical modeling**, and **data-dri
 - **Other Tools**: Git, Web Scraping
 
 📫 **Contact & Portfolio**
-- [**Data Analysis Portfolio**](https://github.com/jwonc4602/Data-Analysis-Portfolio) – Exploratory data analysis and visualization projects
+- [**Data Analysis Portfolio**](https://github.com/jwonc4602/Data-Analysis-Portfolio)
 - [**LinkedIn**](https://linkedin.com/in/jwonc4602)
 - **Email**: jwon.choi@mail.utoronto.ca
 
