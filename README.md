@@ -5,8 +5,11 @@
 I am passionate about **data science**, **statistical modeling**, and **data-driven problem solving**, and always eager to learn and grow!
 
 💻 **Technical Skills**
-- **Languages**: Python, R, SQL, Swift, HTML/CSS  
-- **Tools & Platforms**: Git, Power BI, Tableau, AWS, Firebase  
+- **Programming & Analysis**: Python, R, SQL  
+- **Visualization & BI**: Tableau, Power BI, Excel  
+- **Databases & Cloud**: PostgreSQL, MongoDB, Firebase, AWS, Google Cloud  
+- **Statistics & Modeling**: Exploratory Data Analysis (EDA), Hypothesis Testing, A/B Testing, ...
+- **Other Tools**: Git, Web Scraping
 
 📫 **Contact & Portfolio**
 - [**Data Analysis Portfolio**](https://github.com/jwonc4602/Data-Analysis-Portfolio) – Exploratory data analysis and visualization projects
